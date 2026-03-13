@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="consolePayslip/consolePayslip.csproj" />
+  <Project Path="infoLibrary/infoLibrary.csproj" />
+  <Project Path="payslipLibrary/payslipLibrary.csproj" />
+</Solution>

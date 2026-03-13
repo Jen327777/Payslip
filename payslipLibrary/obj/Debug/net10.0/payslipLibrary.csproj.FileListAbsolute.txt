@@ -1,0 +1,11 @@
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\bin\Debug\net10.0\payslipLibrary.deps.json
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\bin\Debug\net10.0\payslipLibrary.dll
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\bin\Debug\net10.0\payslipLibrary.pdb
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\obj\Debug\net10.0\payslipLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\obj\Debug\net10.0\payslipLibrary.AssemblyInfoInputs.cache
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\obj\Debug\net10.0\payslipLibrary.AssemblyInfo.cs
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\obj\Debug\net10.0\payslipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\obj\Debug\net10.0\payslipLibrary.dll
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\obj\Debug\net10.0\refint\payslipLibrary.dll
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\obj\Debug\net10.0\payslipLibrary.pdb
+C:\Users\Jen\source\repos\payslipApp\payslipLibrary\obj\Debug\net10.0\ref\payslipLibrary.dll

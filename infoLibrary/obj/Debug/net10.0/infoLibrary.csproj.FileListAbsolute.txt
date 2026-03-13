@@ -1,0 +1,15 @@
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\bin\Debug\net10.0\infoLibrary.deps.json
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\bin\Debug\net10.0\infoLibrary.dll
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\bin\Debug\net10.0\infoLibrary.pdb
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\bin\Debug\net10.0\payslipLibrary.dll
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\bin\Debug\net10.0\payslipLibrary.pdb
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\obj\Debug\net10.0\infoLibrary.csproj.AssemblyReference.cache
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\obj\Debug\net10.0\infoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\obj\Debug\net10.0\infoLibrary.AssemblyInfoInputs.cache
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\obj\Debug\net10.0\infoLibrary.AssemblyInfo.cs
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\obj\Debug\net10.0\infoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\obj\Debug\net10.0\infoLibr.16AD9E93.Up2Date
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\obj\Debug\net10.0\infoLibrary.dll
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\obj\Debug\net10.0\refint\infoLibrary.dll
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\obj\Debug\net10.0\infoLibrary.pdb
+C:\Users\Jen\source\repos\payslipApp\infoLibrary\obj\Debug\net10.0\ref\infoLibrary.dll
